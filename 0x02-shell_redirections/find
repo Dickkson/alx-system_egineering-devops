@@ -1,0 +1,1 @@
+find . -empty -printf "%f\n" . -empty -printf %f\n
